@@ -1,0 +1,32 @@
+.
+├── Project
+│   ├── docs
+│   │   ├── config.conf
+│   │   ├── docs.log
+│   │   ├── readme.txt
+│   │   └── script.sh
+│   ├── src
+│   │   ├── app.log
+│   │   ├── app.txt
+│   │   ├── auth
+│   │   │   ├── auth.conf
+│   │   │   ├── auth.log
+│   │   │   ├── auth.sh
+│   │   │   ├── auth.txt
+│   │   │   └── modules
+│   │   │       ├── mod.conf
+│   │   │       ├── mod.log
+│   │   │       ├── mod.sh
+│   │   │       └── mod.txt
+│   │   ├── config.conf
+│   │   └── script.sh
+│   └── tests
+│       ├── test.conf
+│       ├── test.log
+│       ├── test.sh
+│       └── test.txt
+├── README.md
+├── reference.txt
+└── structure.txt
+
+6 directories, 23 files

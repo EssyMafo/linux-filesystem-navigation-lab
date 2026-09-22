@@ -1,0 +1,32 @@
+#Commands Practiced
+##Navigation
+pwd
+cd
+cd ~
+cd ..
+cd .
+
+##Directory Management
+mkdir
+mkdir -p
+File Creation
+touch
+
+##Listing
+ls
+ls -l
+ls -la
+
+##Searching
+find
+find . -type f
+find . -type f -name "*.log"
+find . -type f -name "*.conf"
+find . -type f -name "*.sh"
+find . -type f -newer reference.txt
+
+##Directory Visualization
+tree
+
+##Output Redirection
+tree > structure.txt
